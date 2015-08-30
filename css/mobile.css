@@ -1,0 +1,20 @@
+header, nav, .nav_wrap, .nav_element, .main_section{
+    width: 60%;
+    min-width: 500px
+}
+h1{
+    float: none;
+    margin: 5px auto;
+    font-size: 100px;
+    width: 684px;
+}
+h2{
+    padding: 15px;
+    float: none;
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+}
+.nav_element{
+    font-size: 50px;
+}
