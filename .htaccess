@@ -1,0 +1,6 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+
+ErrorDocument 403 /error.php
+ErrorDocument 404 /error.html
+ErrorDocument 500 /error.php
